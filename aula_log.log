@@ -1,0 +1,10 @@
+INFO:root:ola
+CRITICAL:root:erro critico
+ERROR:root:olá
+DEBUG:root:erro grave
+WARNING:root:erro grave
+CRITICAL:root:erro critico
+ERROR:root:olá
+WARNING:root:erro grave
+INFO:root:ola
+DEBUG:root:erro grave
